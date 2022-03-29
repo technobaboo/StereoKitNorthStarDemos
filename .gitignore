@@ -1,0 +1,6 @@
+# Ignore all the C# annoyances
+
+bin/
+obj/
+
+.vscode/
